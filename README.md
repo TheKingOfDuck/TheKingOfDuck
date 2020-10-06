@@ -9,5 +9,4 @@
 
 - TheKingOfDuck & A five :shit:
 - https://thekingofduck.github.io
-- Infosec Researcher
-- aaaaaaaaaaaaaa
+- When I wirting my code, only God and I know what it does. After a while, only God knows.
