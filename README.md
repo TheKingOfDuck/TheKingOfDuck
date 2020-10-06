@@ -9,5 +9,5 @@
 
 - TheKingOfDuck & A five :shit:
 - https://thekingofduck.github.io
-- lalalala
+- Infosec Researcher
 - aaaaaaaaaaaaaa
