@@ -7,6 +7,6 @@
 
 ### About Me 👋
 
-- TheKingOfDuck & A five :shit:
+- Java,Python,C#,Golang,C++ :shit:
 - https://thekingofduck.github.io
 - When I wirting my code, only God and I know what it does. After a while, only God knows.
