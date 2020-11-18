@@ -11,4 +11,4 @@
 - https://thekingofduck.github.io
 - When I wirting my code, only God and I know what it does. After a while, only God knows.
 
-<img align='right' src="https://profile-counter.glitch.me/TheKingOfDuck/count.svg" width="200">
+<img align='right' src="https://profile-counter.glitch.me/TheKingOfDuck/count.svg" width="100">
