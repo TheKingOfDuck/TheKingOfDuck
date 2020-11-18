@@ -9,7 +9,7 @@
 
 <img align='right' src="https://profile-counter.glitch.me/TheKingOfDuck/count.svg" width="100">
 
-- Java,Python,C#,Golang,C++ :shit:
+- Java,Python,Golang,C++ :shit:
 - https://thekingofduck.github.io
 - When I wirting my code, only God and I know what it does. After a while, only God knows.
 
