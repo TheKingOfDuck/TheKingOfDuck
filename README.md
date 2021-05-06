@@ -11,6 +11,7 @@
 
 - Learning Java,Python :shit:
 - https://blog.thekingofduck.com
+- cm9vdEB0aGVraW5nb2ZkdWNrLmNvbQ==
 - When I wirting my code, only God and I know what it does. After a while, only God knows.
 
 
