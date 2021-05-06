@@ -10,7 +10,7 @@
 <img align='right' src="https://profile-counter.glitch.me/TheKingOfDuck/count.svg" width="100">
 
 - Learning Java,Python :shit:
-- https://thekingofduck.github.io
+- https://blog.thekingofduck.com
 - When I wirting my code, only God and I know what it does. After a while, only God knows.
 
 
