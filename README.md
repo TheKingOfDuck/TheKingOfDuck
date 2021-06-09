@@ -7,7 +7,7 @@
 
 ### About Me 👋
 
-<img align='right' src="https://profile-counter.glitch.me/TheKingOfDuck/count.svg" width="100">
+
 
 - Learning Java,Python :shit:
 - https://blog.thekingofduck.com
