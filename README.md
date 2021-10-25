@@ -37,7 +37,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheKingOfDuck&count_private=true&show_icons=true&hide=prs&theme=radical" />
 
-<img height="604" width="806" src="https://github.com/TheKingOfDuck/TheKingOfDuck/blob/master/images/sep2.jpg" />
+<img height="750" width="1000" src="https://github.com/TheKingOfDuck/TheKingOfDuck/blob/master/images/sep2.jpg" />
 
 
 
