@@ -20,9 +20,9 @@
 
 
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheKingOfDuck&count_private=true&show_icons=true&hide=prs&theme=radical" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TheKingOfDuck&count_private=true&show_icons=true&hide=prs&theme=radical" />
 
-<img align="right" alt="sep" height="390" width="280" src="https://github.com/TheKingOfDuck/TheKingOfDuck/blob/master/images/sep.jpg" />
+<!-- <img align="right" alt="sep" height="390" width="280" src="https://github.com/TheKingOfDuck/TheKingOfDuck/blob/master/images/sep.jpg" /> -->
 
 
 
@@ -37,13 +37,13 @@
 
 <!-- <h1>这里是猫猫墙</h1> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheKingOfDuck&count_private=true&show_icons=true&hide=prs&theme=radical" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=TheKingOfDuck&count_private=true&show_icons=true&hide=prs&theme=radical" /> -->
 
 <!-- <img height="650" width="1000" src="https://github.com/TheKingOfDuck/TheKingOfDuck/blob/master/images/sep2.jpg" /> -->
 
-### WallCat 🐱
+<!-- ### WallCat 🐱
 
-[https://github.com/TheKingOfDuck/wallcat](https://github.com/TheKingOfDuck/wallcat)
+[https://github.com/TheKingOfDuck/wallcat](https://github.com/TheKingOfDuck/wallcat) -->
 
 
 
