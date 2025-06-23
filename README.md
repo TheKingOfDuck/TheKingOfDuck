@@ -33,7 +33,7 @@
 - Learning Java,Go :shit:
 - https://blog.thekingofduck.com
 - Talk is cheap,show me the code.
-- When I wirting my code, only God and I know what it does. After a while, only God knows.
+- When I'm wiring my code, only God and I know what it does. After a while, only God knows.
 <!-- <h1>这里是猫猫墙</h1> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=TheKingOfDuck&count_private=true&show_icons=true&hide=prs&theme=radical" /> -->
