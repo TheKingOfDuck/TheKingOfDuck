@@ -28,7 +28,7 @@
 
 ### About Me 👋
 
-
+- Infosec Researcher|Coder|Social Observer
 - https://blog.thekingofduck.com
 - Talk is cheap,show me the code.
 - When I'm wiring my code, only God and I know what it does. After a while, only God knows.
