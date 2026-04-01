@@ -30,7 +30,7 @@
 
 - Infosec Researcher|Coder|Social Observer|Shitologist
 - https://blog.thekingofduck.com
-- Talk is cheap,show me the code.
+- Code is cheap,show me the talk.
 - When I'm wiring my code, only God and I know what it does. After a while, only God knows.
 
 
